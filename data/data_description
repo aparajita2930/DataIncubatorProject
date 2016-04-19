@@ -1,3 +1,6 @@
 Data:
 The data has been extracted from The Cancer Genome Atlas for miRNA sequence of:
 Brain Lower Grade Glioma and Head and Neck Squamous Cell Carcinoma.
+
+LGG: https://tcga-data.nci.nih.gov/tcga/dataAccessMatrix.htm?mode=ApplyFilter&diseaseType=LGG
+HNSC: https://tcga-data.nci.nih.gov/tcga/dataAccessMatrix.htm?mode=ApplyFilter&diseaseType=HNSC
